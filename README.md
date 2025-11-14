@@ -5,10 +5,10 @@ It centralizes all deliverables: code (in Jupyter notebooks), datasets, models, 
 
 Project carried out by:
 
-Edgar Demeude
-Abida Youssef
-Corroller Nathan
-Thomas Aubourg
+| Edgar Demeude | 
+Abida Youssef |
+Corroller Nathan |
+Thomas Aubourg |
 
 ---
 
