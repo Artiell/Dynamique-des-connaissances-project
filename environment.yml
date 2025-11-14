@@ -1,0 +1,41 @@
+name: ddc_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python & Data Science
+  - python=3.11
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - optuna
+
+  # Web & Automation
+  - requests
+  - beautifulsoup4
+  - selenium=4.15.0
+  - webdriver-manager
+
+  # Network & Visualization
+  - networkx
+  - pyvis
+  - karateclub
+  - wordcloud
+  - termcolor
+
+  # Jupyter & Utilities
+  - jupyter
+  - notebook
+  - python-dotenv
+  - nltk
+
+  # Deep Learning (via pip)
+  - pip:
+    - torch>=2.0.0
+    - sentence-transformers==2.5.1
+    - transformers==4.40.0
+    - accelerate==0.27.0
+    - datasets==2.18.0

@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+Miniconda3.sh
+*.deb
+
+# Sensitive files
+.env
+
+# Big files
+models/
+notebooks/results/
+data/kialo/debates/
+
+runs/
+notebooks/cache_dir
+notebooks/outputs

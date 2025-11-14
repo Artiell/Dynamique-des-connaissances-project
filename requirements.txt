@@ -1,0 +1,34 @@
+# Core Data Mining & ML
+pandas==2.1.4
+numpy==1.26.3
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.0
+nltk==3.9.1
+wordcloud==1.9.4
+termcolor==3.1.0
+optuna==4.5.0
+
+# Web Scraping & Network Analysis
+requests==2.31.0
+beautifulsoup4==4.12.2
+networkx==3.2.1
+pyvis==0.3.2
+karateclub==1.3.1
+webdriver-manager==4.0.2
+
+# Automation & Environment
+selenium==4.15.0
+python-dotenv==1.0.0
+
+# Jupyter (for notebooks)
+jupyter==1.0.0
+notebook==7.0.6
+
+# Deep Learning
+torch>=2.0.0
+sentence-transformers==2.5.1
+transformers==4.40.0
+accelerate==0.27.0
+datasets==2.18.0
+xformers==0.0.32
