@@ -1,8 +1,14 @@
 # DDC Project
 
 This repository contains the group work for the **DDC assignment**, covering reasoning with Assumption-Based Argumentation (ABA), relation-based argument mining, and gradual semantics visualization.  
-
 It centralizes all deliverables: code (in Jupyter notebooks), datasets, models, and reports.  
+
+Project carried out by:
+
+Edgar Demeude
+Abida Youssef
+Corroller Nathan
+Thomas Aubourg
 
 ---
 
